@@ -1,0 +1,7 @@
+.locations {
+    border: 3px dotted orangered;
+}
+
+.location__image {
+    height: 15rem;
+}

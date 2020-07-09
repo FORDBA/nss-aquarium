@@ -1,0 +1,7 @@
+.fishes {
+    border: 3px dotted dodgerblue;
+}
+
+.fish__image {
+    height: 15rem;
+}
