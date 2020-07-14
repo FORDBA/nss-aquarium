@@ -1,3 +1,11 @@
 .quotes {
-    border: 3px dotted goldenrod;
+    border: 3px groove goldenrod;
+    background-color: rgb(245, 218, 99);
+    order: 1
+}
+.quote__text {
+    font-style: italic;
+}
+.quote__author {
+    font-weight: bold;
 }

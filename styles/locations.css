@@ -1,7 +1,14 @@
 .locations {
-    border: 3px dotted orangered;
+    border: 3px groove orangered;
+    background-color: rgb(235, 112, 112);
+    order: 2
 }
 
 .location__image {
     height: 15rem;
+    display: flex;
+    justify-items: center;
+}
+.location__name {
+    font-weight: bold;
 }

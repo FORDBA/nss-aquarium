@@ -1,7 +1,25 @@
 .fishes {
-    border: 3px dotted dodgerblue;
+    border: 2px groove dodgerblue;
+    background-color: aqua;
+    order: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
 }
 
 .fish__image {
     height: 15rem;
+    width: 20rem;
+    
 }
+    
+
+.fish__text {
+    display: inline-block;
+    width: 20rem;
+    border: 3px solid black;
+    background-color: white;
+            }
+            
